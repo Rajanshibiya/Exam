@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UT01273\\Book_Rental_Management_System\\BookRebtalManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7667C11-3F49-418C-B80F-E525ED0E4A73}|BookRebtalManagementSystem\\BookRebtalManagementSystem.csproj|c:\\users\\ut01273\\book_rental_management_system\\bookrebtalmanagementsystem\\bookrebtalmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7667C11-3F49-418C-B80F-E525ED0E4A73}|BookRebtalManagementSystem\\BookRebtalManagementSystem.csproj|solutionrelative:bookrebtalmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UT01273\\Book_Rental_Management_System\\BookRebtalManagementSystem\\BookRebtalManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "BookRebtalManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\UT01273\\Book_Rental_Management_System\\BookRebtalManagementSystem\\BookRebtalManagementSystem\\Program.cs",
+              "RelativeToolTip": "BookRebtalManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:00:18.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
